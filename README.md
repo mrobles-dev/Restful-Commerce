@@ -16,7 +16,7 @@ Open package.json in integrated terminal to npm i all dependencies. Then, you'll
 This snippet demonstrates full CRUD operation for an e-commerce's back-end.
 
     
-    ![alt text](./Untitled_%20Jun%2015%2C%202023%2011_39%20PM.gif)
+  ![CRUD view](./Untitled_%20Jun%2015%2C%202023%2011_39%20PM.gif)
     
 
 
